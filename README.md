@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Expense Management App
 
 A mobile app for tracking expenses, connecting bank accounts, and getting insights into spending habits.
@@ -22,8 +22,8 @@ A mobile app for tracking expenses, connecting bank accounts, and getting insigh
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/expense-management.git
-   cd expense-management
+   git clone https://github.com/your-username/expense-tracker.git
+   cd expense-tracker
    ```
 
 2. Install dependencies:
@@ -96,4 +96,4 @@ This project is licensed under the MIT License.
 =======
 # Expense-Tracker
 expense tracker mobile app with react native
->>>>>>> c9cd1e2e2e7daef66b973bacc2753abeeff4b32e
+
